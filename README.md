@@ -2,7 +2,7 @@
 
 :telephone_receiver: +7 (912) 588-10-24, WhatsApp, Telegram
 
-:email: igor-chazov@yandex.ru
+:envelope: igor-chazov@yandex.ru
 
 # Веб-разработчик
 
