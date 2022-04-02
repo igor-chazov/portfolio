@@ -1,8 +1,8 @@
 ## Чазов Игорь Валерьевич
 
-:telephone_receiver: +7 (912) 588-10-24, WhatsApp, Telegram
+tel: +7 (912) 588-10-24, WhatsApp, Telegram
 
-:envelope: igor-chazov@yandex.ru
+e-mail: igor-chazov@yandex.ru
 
 # Веб-разработчик
 
