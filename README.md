@@ -28,7 +28,7 @@ e-mail: igor-chazov@yandex.ru
 ---
 
 2. Изучил основы программирования, основы языка JavaScript. Познакомился с методологией ООП, научился работать с классами.
-* **Дипломный проект курса «Основы JavaScript»**
+* **Дипломный проект курса «Основы JavaScript» - сайт-биржа для крипто-стартапа**
     * [репозиторий](https://github.com/igor-chazov/bjs-diploma);
     * [реализация](https://bjs-diploma5.herokuapp.com);
 * сертификат [«Основы программирования»](https://disk.yandex.ru/i/FMvwCviukM7nbA)
@@ -38,7 +38,7 @@ e-mail: igor-chazov@yandex.ru
 ---
 
 3. Изучил основы языка JavaScript в браузере. Научился работать с веб-интерфейсами, получением DOM-элементов, навигации по элементам, работе с формами.
-* **Дипломный проект курса «Базовый JavaScript в браузере»**
+* **Дипломный проект курса «Базовый JavaScript в браузере» - приложение для управления финансами "MoneyManager"**
     * [репозиторий](https://github.com/igor-chazov/bhj-diploma);
     * [реализация](https://bhj-diploma5.herokuapp.com);
 * сертификат [«Основы JavaScript в браузере»](https://disk.yandex.ru/i/N4FMGqLR-xpLQA)
@@ -47,7 +47,7 @@ e-mail: igor-chazov@yandex.ru
 ---
 
 4. Изучил современные возможности языка JavaScript. Познакомился с инструментами, облегчающими разработку и тестирование, принципами асинхронности. Научился взаимодействовать с игровым полем через механизм callback'ов, хранить состояние локально. Написана простенькая игра с возможностью сохранения результата.
-* **Дипломный проект курса "Продвинутый JavaScript: современные возможности языка"**
+* **Дипломный проект курса "Продвинутый JavaScript: современные возможности языка" - игра "Retro Game"**
     * [репозиторий](https://github.com/igor-chazov/ajs-homeworks-diplom);
     * [реализация](https://igor-chazov.github.io/ajs-homeworks-diplom);
 * сертификат [«Продвинутый JavaScript - современные возможности языка»](https://disk.yandex.ru/i/wGaM2K2ETFRIsg)
@@ -98,7 +98,7 @@ e-mail: igor-chazov@yandex.ru
     * [репозиторий](https://github.com/igor-chazov/ahj-hw-workers-loading-styling);
     * [реализация](https://igor-chazov.github.io/ahj-hw-workers-loading-styling);
 
-* **Дипломное задание к курсу «Продвинутый JavaScript в браузере». Медиа Органайзер:**
+* **Дипломное задание к курсу «Продвинутый JavaScript в браузере». - медиа Органайзер**
     * [репозиторий](https://github.com/igor-chazov/ahj-diplom);
     * [реализация](https://igor-chazov.github.io/ahj-diplom);
 
@@ -164,7 +164,7 @@ e-mail: igor-chazov@yandex.ru
     * список и подробности: [репозиторий](https://github.com/igor-chazov/ra-hw-13_saga_2-main-details), [реализация](https://igor-chazov.github.io/ra-hw-13_saga_2-main-details);
     * лента новостей: [репозиторий](https://github.com/igor-chazov/ra-hw-13_saga_3-newsfeed), [реализация](https://igor-chazov.github.io/ra-hw-13_saga_3-newsfeed);
 
-* **Дипломное задание по курсу "React: Библиотека №1 в современной фронтенд-разработке"**
+* **Дипломное задание по курсу "React: Библиотека №1 в современной фронтенд-разработке" - интернет - магазин обуви**
     * [репозиторий](https://github.com/igor-chazov/ra-diplom);
     * [реализация](https://igor-chazov.github.io/ra-diplom/);
 
