@@ -11,7 +11,7 @@ e-mail: igor-chazov@yandex.ru
 * **Языки программирования:** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой), php (в процессе изучения);
 * **Фреймворки:** Jest, Puppeteer;
 * **Библиотеки:** React, React Router, React Context, React redux, Redux Toolkit + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment;
-* **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
+* **Технологии и инструменты:** HTML, CSS, Babel, esLint, styleLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, npm, yarn, git, Appveyor, Heroku.
 
 ## Профессиональный опыт в Веб
 
