@@ -23,22 +23,39 @@ e-mail: igor-chazov@yandex.ru
 * сертификат [«HTML - вёрстка»](https://disk.yandex.ru/i/A7SDBmwDK98ZJQ)
 * сертификат [«Адаптивная и мобильная вёрстка»](https://disk.yandex.ru/i/qCYU08ZLpKv1kw)
 
-- **Используемые технологии и инструменты:** HTML, CSS, резиновый CSS, адаптивный CSS, мобильная вёрстка.
+- **Используемые технологии и инструменты:** HTML, CSS, адаптивный CSS, мобильная вёрстка.
 
 ---
 
-2. Изучил основы программирования, основы языка JavaScript, основы языка JavaScript в браузере, современные возможности языка JavaScript. Познакомился с методологией ООП, научился работать с классами, событиями и взаимодействовать с игровым полем через механизм callback'ов, хранить состояние локально. Написана простенькая игра с возможностью сохранения результата.
-    * [репозиторий](https://github.com/igor-chazov/ajs-homeworks-diplom);
-    * [реализация](https://igor-chazov.github.io/ajs-homeworks-diplom/);
+2. Изучил основы программирования, основы языка JavaScript. Познакомился с методологией ООП, научился работать с классами.
+* **Дипломный проект курса «Основы JavaScript»**
+    * [репозиторий](https://github.com/igor-chazov/bjs-diploma);
+    * [реализация](https://bjs-diploma5.herokuapp.com);
 * сертификат [«Основы программирования»](https://disk.yandex.ru/i/FMvwCviukM7nbA)
 * сертификат [«Основы JavaScript»](https://disk.yandex.ru/i/89m-uY-Yth7KKA)
+* **Используемые технологии и инструменты:** ООП, JavaScript, html, css, git, npm.
+
+---
+
+3. Изучил основы языка JavaScript в браузере. Научился работать с веб-интерфейсами, получением DOM-элементов, навигации по элементам, работе с формами.
+* **Дипломный проект курса «Базовый JavaScript в браузере»**
+    * [репозиторий](https://github.com/igor-chazov/bhj-diploma);
+    * [реализация](https://bhj-diploma5.herokuapp.com);
 * сертификат [«Основы JavaScript в браузере»](https://disk.yandex.ru/i/N4FMGqLR-xpLQA)
+* **Используемые технологии и инструменты:** ООП, наследование, Webpack, JavaScript, обработка событий, html, css, babel, eslint, jest, git, npm.
+
+---
+
+4. Изучил современные возможности языка JavaScript. Познакомился с инструментами, облегчающими разработку и тестирование, принципами асинхронности. Научился взаимодействовать с игровым полем через механизм callback'ов, хранить состояние локально. Написана простенькая игра с возможностью сохранения результата.
+* **Дипломный проект курса "Продвинутый JavaScript: современные возможности языка"**
+    * [репозиторий](https://github.com/igor-chazov/ajs-homeworks-diplom);
+    * [реализация](https://igor-chazov.github.io/ajs-homeworks-diplom);
 * сертификат [«Продвинутый JavaScript - современные возможности языка»](https://disk.yandex.ru/i/wGaM2K2ETFRIsg)
 * **Используемые технологии и инструменты:** ООП, наследование, Webpack, JavaScript, обработка событий, html, css, babel, eslint, jest, git, npm.
 
 ---
 
-3. Изучил продвинутый JavaScript в браузере. В результате были приобретены знания: настройка рабочего окружения, работа с DOM, работа с событиями, перехват и прерывание, организация тестирования, работа с формами, технологией DnD, работа с HTTP, работа с SSE и Websocket, анимация, работа с геолокацией, уведомлениями, медиа (камера и микрофон), знакомство с RxJS, работа WebWorkers и ServiceWorkers.
+5. Изучил продвинутый JavaScript в браузере. В результате были приобретены знания: настройка рабочего окружения, работа с DOM, работа с событиями, перехват и прерывание, организация тестирования, работа с формами, технологией DnD, работа с HTTP, работа с SSE и Websocket, анимация, работа с геолокацией, уведомлениями, медиа (камера и микрофон), знакомство с RxJS, работа WebWorkers и ServiceWorkers.
 
 * Обработка событий - написана простенькая игра:
     * [репозиторий](https://github.com/igor-chazov/ahj-hw-events-goblin-game);
@@ -91,7 +108,7 @@ e-mail: igor-chazov@yandex.ru
 
 ---
 
-4. Изучение React, React Router, Redux, Redux Toolkit, Redux Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC:
+6. Изучение React, React Router, Redux, Redux Toolkit, Redux Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC:
 
 * Научился работать с Class-based и Функциональными компонентами, познакомился с синтаксисом JSX - результат: отрисовка календаря компонентами:
     * [репозиторий](https://github.com/igor-chazov/ra-hw-1_components_3-calendar);
@@ -158,6 +175,6 @@ e-mail: igor-chazov@yandex.ru
 
 ---
 
-5. В данный момент изучаю язык программирования PHP.
+7. В данный момент изучаю язык программирования PHP.
 
 ---
