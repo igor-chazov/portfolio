@@ -98,7 +98,7 @@ e-mail: igor-chazov@yandex.ru
     * [репозиторий](https://github.com/igor-chazov/ahj-hw-workers-loading-styling);
     * [реализация](https://igor-chazov.github.io/ahj-hw-workers-loading-styling);
 
-* **Дипломное задание к курсу «Продвинутый JavaScript в браузере». - медиа Органайзер**
+* **Дипломный проект курса «Продвинутый JavaScript в браузере». - медиа Органайзер**
     * [репозиторий](https://github.com/igor-chazov/ahj-diplom);
     * [реализация](https://igor-chazov.github.io/ahj-diplom);
 
@@ -164,7 +164,7 @@ e-mail: igor-chazov@yandex.ru
     * список и подробности: [репозиторий](https://github.com/igor-chazov/ra-hw-13_saga_2-main-details), [реализация](https://igor-chazov.github.io/ra-hw-13_saga_2-main-details);
     * лента новостей: [репозиторий](https://github.com/igor-chazov/ra-hw-13_saga_3-newsfeed), [реализация](https://igor-chazov.github.io/ra-hw-13_saga_3-newsfeed);
 
-* **Дипломное задание по курсу "React: Библиотека №1 в современной фронтенд-разработке" - интернет - магазин обуви**
+* **Дипломный проект курса "React: Библиотека №1 в современной фронтенд-разработке" - интернет - магазин обуви**
     * [репозиторий](https://github.com/igor-chazov/ra-diplom);
     * [реализация](https://igor-chazov.github.io/ra-diplom/);
 
