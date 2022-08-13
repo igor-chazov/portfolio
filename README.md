@@ -174,7 +174,3 @@ e-mail: igor-chazov@yandex.ru
 **Используемые технологии и инструменты:** React, React Router, Redux, Redux Toolkit, Redux Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC, git, npm, yarn.
 
 ---
-
-7. В данный момент изучаю язык программирования PHP.
-
----
