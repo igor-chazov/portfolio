@@ -8,7 +8,7 @@ e-mail: igor-chazov@yandex.ru
 
 ### Технические навыки
 
-* **Языки программирования:** JavaScript (ES5, ES6+), TypeScript (базовое знакомства с этой надстройкой), php;
+* **Языки программирования:** php, JavaScript, TypeScript;
 * **Фреймворки:** Jest, Puppeteer;
 * **CMS:** ModX, WordPress;
 * **Библиотеки:** React, Bootstrap, Moment;
