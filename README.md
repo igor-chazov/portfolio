@@ -8,11 +8,12 @@ e-mail: igor-chazov@yandex.ru
 
 ### Технические навыки
 
-* **Языки программирования:** php, JavaScript, TypeScript;
-* **Фреймворки:** Jest, Puppeteer;
-* **CMS:** ModX, WordPress;
-* **Библиотеки:** React, Bootstrap, Moment;
-* **Технологии и инструменты:** HTML, CSS, Babel, esLint, styleLint, WebPack, npm, yarn, git, Appveyor, Heroku.
+
+* **Языки программирования:** HTML, CSS, php, SQL, JavaScript, TypeScript;
+* **Фреймворки и библиотеки:** Laravel, React, Bootstrap;
+* **CMS:** WordPress, ModX;
+* **Инструменты:** Babel, esLint, WebPack, npm, yarn, git.
+* **Технологии:** xhr, fetch, DnD, SSE, websocket, ServiceWorkers, WebWorkers.
 
 ## Профессиональный опыт в Веб
 
