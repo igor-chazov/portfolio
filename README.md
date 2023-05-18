@@ -1,16 +1,16 @@
 ## Чазов Игорь Валерьевич
 
-tel: +7 (912) 588-10-24 (WhatsApp, Viber)
+тел:: +7 (912) 588-10-24 (WhatsApp, Viber)
 
-telegram: [@igor_chazov](https://t.me/igor_chazov) (предпочитаемый способ связи)
+телеграм: [@igor_chazov](https://t.me/igor_chazov) (предпочитаемый способ связи)
 
-e-mail: igor-chazov@yandex.ru
+E-mail: igor-chazov@yandex.ru
 
 # Веб-разработчик
 
 ### Технические навыки
 
-* **Языки программирования:** PHP, SQL, JavaScript, TypeScript;
+* **Языки программирования:** PHP, XSLT, SQL, JavaScript, TypeScript;
 * **Фреймворки и библиотеки:** Bootstrap, Laravel, React, Redux;
 * **CMS:** WordPress, ModX;
 * **Технологии Инструменты:** HTML, CSS, HTTP, CLI, AJAX, SSE, Websockets, MySQL, SQLite, Babel, esLint, WebPack, GIT, GiTHub, npm, yarn.
