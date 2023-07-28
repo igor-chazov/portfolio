@@ -20,6 +20,9 @@ E-mail: igor-chazov@yandex.ru
 1. Вёрстка адаптивного макета на чистом HTML и CSS, внесение изменений в существующую вёрстку.
     * [репозиторий](https://github.com/igor-chazov/mq-diplom);
     * [реализация](https://igor-chazov.github.io/mq-diplom/);
+2. Вёрстка небольшого блока по макету Figma.
+    * [репозиторий](https://github.com/igor-chazov/fin-kit);
+    * [реализация](https://igor-chazov.github.io/fin-kit/);
 * сертификат [«HTML - вёрстка»](https://disk.yandex.ru/i/A7SDBmwDK98ZJQ)
 * сертификат [«Адаптивная и мобильная вёрстка»](https://disk.yandex.ru/i/qCYU08ZLpKv1kw)
 
